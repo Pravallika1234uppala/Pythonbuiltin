@@ -16,5 +16,5 @@ In tkinter or kinter everything is a widget like button widget, text widget, fra
    In this repository, I created a label widget, button widget, Input widget and adding icons, images using pillow(which is a python image library).
    
    Made few projects like:
-   Calculator
-   Image viewer application
+   1. Calculator
+   2. Image viewer application
