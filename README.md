@@ -1,8 +1,11 @@
-# Pythonbuiltin:
-Tkinter:
-Creating GUI(Graphical User Interface) with Python.
+## Pythonbuiltin:
+Tkinter: Standard GUI library for Python.
+
+Creating GUI(Graphical User Interface) with Python:
 
 tkinter is a python built in module and allows to create GUIs quickly and easily.
+
+kinter provides set of tools and widget for desktop application creation.
 
 In tkinter or kinter everything is a widget like button widget, text widget, frame widget.
 
